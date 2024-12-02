@@ -28,6 +28,7 @@ The dataset includes the following key tables:
 - **Customers**: Information about the customers.
 - **Cookie Type**: Details about the types of cookies.
 - **Orders**: Transaction data including date, quantity, and revenue.
+![image](https://github.com/user-attachments/assets/c277bc43-d12f-4d69-a5a6-4a13604d7ce3)
 
 
 ### Example Data Snapshot:
